@@ -1,0 +1,6 @@
+[submodule "shprot_bot_master"]
+	path = shprot_bot_master
+	url = https://github.com/patriciasmashp/shprot_bot_master
+[submodule "strapi_shprot"]
+	path = strapi_shprot
+	url = https://github.com/patriciasmashp/strapi_shprot
