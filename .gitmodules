@@ -1,6 +1,12 @@
 [submodule "shprot_bot_master"]
 	path = shprot_bot_master
 	url = https://github.com/patriciasmashp/shprot_bot_master
+[submodule "shprot_bot_client"]
+	path = shprot_bot_client
+	url = https://github.com/patriciasmashp/shprot_bot_cllient
 [submodule "strapi_shprot"]
 	path = strapi_shprot
 	url = https://github.com/patriciasmashp/strapi_shprot
+[submodule "shprot_new_forntend"]
+	path = frontend
+	url = https://github.com/patriciasmashp/shprot_new_forntend
